@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+fixcontainer{
+	background-image:url(../images/1234a43533fa828b931d1f37ff1f4134970a5a36.jpg)
+}
+fixcontainer1{
+	width:70%;
+	height:70;
+}
+carousel{
+	padding-left: 15px;
+	padding-right: 15px;
+	float: left;
+	position: relative;
+	max-width: 100%;
+}

@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	padding-left: 50px;
+	padding-right: 50px;
+}
+header,footer,nav,div,section,aside,article{
+	border:1px solid #000000;
+	border-radius: 5px;
+}
+a,a:hover{
+	text-decoration:none;
+}
+.divcontent{
+	min-height: 350px;
+}
